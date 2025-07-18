@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @manojgadamsetty
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Manoj Gadamsetty
 
-<!---
-manojgadamsetty/manojgadamsetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+iOS developer | Swift enthusiast | Advocate for secure, user-friendly mobile apps
+
+---
+
+## About Me
+
+🛠️ I craft robust iOS apps with **Swift**, focusing on **clipboard management** and **mobile security**[2].  
+🔐 Big believer that privacy isn’t just a feature—it's the foundation.  
+🧠 Sometimes I build **custom APIs** (and yes, I self-host my own time servers because precision matters)[3].
+
+## What I Do
+
+- Build iOS applications that keep your data safe (and your clipboard secrets private)
+- Integrate security best practices to stay one step ahead of troublemakers
+- Tinker with clever back-end and API solutions so everything just works
+
+## Skills
+
+| Mobile Development      | Security & Privacy      | Back-End & APIs         |
+|------------------------|------------------------|-------------------------|
+| Swift, Objective-C     | Secure Coding          | Golang                  |
+| Android (Java, Kotlin) | Encryption, OWASP      | Self-hosted Time Server |
+| Xcode, Android Studio  | Pen Testing            | API Design              |
+
+## A Few Fun Facts
+
+- My clipboard manager is probably safer than your bank account[2]
+- I prefer my APIs home-brewed (self-hosted time servers for the win!)[3]
+- Coffee, code, and creative bug squashing—my daily routine
+
+## Let’s Connect!
+
+Love secure apps or have a quirky idea about mobile tech?  
+Open an issue, start a discussion, or just say hi!
+
+> “Good code is secure code—and it helps if it makes you smile, too.”[1]
+
+<!--
+Current date: Friday, July 18, 2025, 9:13 PM IST
+-->
