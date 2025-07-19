@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Manoj Gadamsetty
+# Hi, I’m Manoj Gadamsetty
 
 iOS developer | Swift enthusiast | Advocate for secure, user-friendly mobile apps
 
@@ -6,9 +6,9 @@ iOS developer | Swift enthusiast | Advocate for secure, user-friendly mobile app
 
 ## About Me
 
-🛠️ I craft robust iOS apps with **Swift**, focusing on **clipboard management** and **mobile security**.  
-🔐 Big believer that privacy isn’t just a feature—it's the foundation.  
-🧠 Sometimes I build **custom APIs** (and yes, I self-host my own time servers because precision matters).
+I craft robust iOS apps with **Swift**, focusing on **clipboard management** and **mobile security**.  
+Big believer that privacy isn’t just a feature—it's the foundation.  
+Sometimes I build **custom APIs** (and yes, I self-host my own time servers because precision matters).
 
 ## What I Do
 
