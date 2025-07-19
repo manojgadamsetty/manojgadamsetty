@@ -35,8 +35,4 @@ Sometimes I build **custom APIs** (and yes, I self-host my own time servers beca
 Love secure apps or have a quirky idea about mobile tech?  
 Open an issue, start a discussion, or just say hi!
 
-> “Good code is secure code—and it helps if it makes you smile, too.”[1]
-
-<!--
-Current date: Friday, July 18, 2025, 9:13 PM IST
--->
+> “Good code is secure code—and it helps if it makes you smile, too.”
