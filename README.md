@@ -6,9 +6,9 @@ iOS developer | Swift enthusiast | Advocate for secure, user-friendly mobile app
 
 ## About Me
 
-🛠️ I craft robust iOS apps with **Swift**, focusing on **clipboard management** and **mobile security**[2].  
+🛠️ I craft robust iOS apps with **Swift**, focusing on **clipboard management** and **mobile security**.  
 🔐 Big believer that privacy isn’t just a feature—it's the foundation.  
-🧠 Sometimes I build **custom APIs** (and yes, I self-host my own time servers because precision matters)[3].
+🧠 Sometimes I build **custom APIs** (and yes, I self-host my own time servers because precision matters).
 
 ## What I Do
 
@@ -26,8 +26,8 @@ iOS developer | Swift enthusiast | Advocate for secure, user-friendly mobile app
 
 ## A Few Fun Facts
 
-- My clipboard manager is probably safer than your bank account[2]
-- I prefer my APIs home-brewed (self-hosted time servers for the win!)[3]
+- My clipboard manager is probably safer than your bank account
+- I prefer my APIs home-brewed (self-hosted time servers for the win!)
 - Coffee, code, and creative bug squashing—my daily routine
 
 ## Let’s Connect!
